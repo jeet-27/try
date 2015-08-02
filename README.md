@@ -1,5 +1,4 @@
-# Try
-this Technology used:
+Technology used:
 
 frondend: ember version 2.0 beta
 
@@ -9,4 +8,4 @@ backend: ruby
 
 project start date:
 
-02/august/2013 sundayis based on experience
+02/august/2013 sunday
